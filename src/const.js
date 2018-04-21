@@ -6,7 +6,7 @@ Object.defineProperty(window, "PI2", {
 })
 
 console.log(window.PI2)
-
+//test git
 // ES6 的常量写法
 
 const PI = 3.1415926
